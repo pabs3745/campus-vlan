@@ -28,4 +28,4 @@ Virtual LANs on a campus network
 
 ![Switch](https://github.com/pabs3745/campus-vlan/blob/master/s2-02.png)
 
-![Switch](https://github.com/pabs3745/campus-vlan/blob/master/s2-03.png)
+![Switch](https://github.com/pabs3745/campus-vlan/blob/master/s2-3.png)
